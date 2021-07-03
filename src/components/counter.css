@@ -1,0 +1,13 @@
+.number {
+    color: #ffff;
+  
+    font-size: 50px;
+  }
+  
+*{
+  background-color:black ;
+}
+.btn {
+  background-color: aliceblue;
+  background-repeat: no-repeat;
+}
